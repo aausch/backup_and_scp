@@ -1,0 +1,4 @@
+REMOTE_SERVER: 198.0.0.1
+USER_ID: userid
+PASSWORD: password
+BACKUP_DIR: backup

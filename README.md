@@ -15,8 +15,8 @@ Create a backup, and an archive directory, for example:
     mkdir backup
     mkdir backup/archive
 
-Edit .publish_conf, and enter values that are appropriate for you (ie, use a directory other than "backup" if that's what you entered above)  
-Edit filestocopy, and enter the names of the files that you're looking to use this script on
+Edit *.publish_conf*, and enter values that are appropriate for you (ie, use a directory other than "backup" if that's what you entered above)  
+Edit *filestocopy*, and enter the names of the files that you're looking to use this script on
 
 try the script like so:
 

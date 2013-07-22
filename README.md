@@ -24,3 +24,4 @@ try the script like so:
 
 WARNING:
 * this script clobbers files on the remote system; make sure you have local backups of them before you first start using it.
+* tested/used exclusively on a mac os x system
